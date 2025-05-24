@@ -51,6 +51,7 @@ and thumbnail generation__. So if you're lazy like me then you can just do the f
 6. Push your changes to github.com by `$ git add --all` and `$ git commit -m "a nice commit message"` and then finally `$ git push origin master`
 
 ### Contact Form
+(TODO: Set this up)
 You can make the contact form work without the need of any server-side code. Just follow this [article on github](https://github.com/dwyl/html-form-send-email-via-google-script-without-server) which uses a simple google script to send emails or to upload to a google spreadsheet when someone submits the form.
 
 ## Credits
