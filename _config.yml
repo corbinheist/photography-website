@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://photography.corbinheist.com"
+baseurl: #"https://photography.corbinheist.com" TODO:  make this an env variable to enable local test & web host
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
