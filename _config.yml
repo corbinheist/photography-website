@@ -1,6 +1,6 @@
 # Base configs
-baseurl: #"https://photography.corbinheist.com" TODO:  make this an env variable to enable local test & web host
-#baseurl: "" # Comment the above line and uncomment this to test the website locally
+#baseurl: "https://photography.corbinheist.com"
+baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-9"
@@ -14,7 +14,7 @@ header:
  subtitle: "by Corbin Heist"
 footer:
  name: "Hey there, my name is Corbin"
- bio: "I am a engineer and photographer from Washington. I document my life and travels through photography."
+ bio: "I am an engineer and photographer from Washington. I document my life and travels through photography."
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
 web_design: "AJ"
 # Configure which exif data to display
