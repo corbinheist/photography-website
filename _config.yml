@@ -3,7 +3,7 @@ baseurl: "https://corbinheist.github.io/photography-website"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-9"
+google_analytics: "G-ET6PED3R1N"
 
 # UI configs
 title: "Photography by Corbin Heist"
